@@ -1,0 +1,53 @@
+<HTML>
+  <TITLE> SYBAF </TITLE>
+  <HEAD> Keshav's   </HEAD>
+  <BODY BGCOLOR = "Pink"></BODY>
+  <BODY>
+  INFORMATION TECHNOLOGY
+  <H1>Main Headings</H1>
+  <H1><CENTER> in middle or in side choose one </CENTER> </H1>
+  <CENTER> <FONT SIZE="5" COLOR="Cyan" FACE= "Constantia"> After putting one these the bottom text color would change as you like </CENTER>
+
+  
+  <B>1st TOPIC</B>
+  <BR>
+  
+    <P>
+      Main Paragraph work
+      </P>
+  
+      <H1><S> Item old price here </S></H1>
+      <H1> New Price here </H1>
+
+      <OL TYPE="N">
+        <LI> Order list </LI>
+        
+
+      <H1> Anything in square and cubic form<SUP>Power Amount</SUP></H1>
+
+      <CENTER> <FONT SIZE="8" COLOR="BLUE" FACE= "Corbel"> This<FONT SIZE="8" COLOR="RED" FACE= "Corbel">thing<FONT SIZE="8" COLOR="ORANGE" FACE= "Corbel">work<FONT SIZE="8" COLOR="BLUE" FACE= "Corbel">with<FONT SIZE="8" COLOR="GREEN" FACE= "Corbel">different<FONT SIZE="8" COLOR="RED" FACE= "Corbel">colors and stuff<SUP><FONT SIZE="4" COLOR="GREY" FACE= "Corbel">with a text moving downwards </SUP> </CENTER>
+        <HR WIDTH=85% COLOR="GREEN" SIZE="5" ALIGN="CENTER">
+        <MARQUEE>  <IMG SRC="C:\Users\booklover\Desktop\right.png" ALIGN="RIGHT" WIDTH=400 HEIGHT=400 BORDER=3 VSPACE=4 HSPACE=1000 TITLE="EL">
+        </MARQUEE>
+
+        <IMG SRC="C:\ThisPC\Videos\Captures\Phot
+        o.jpg"WIDTH=300 HEIGHT=300 BORDER=3>
+
+          CENTER><H1>Page no example</H1></CENTER>
+<A HREF="6thPage.html">Redirecting Link</A>
+
+<CENTER><H1>Image link</H1></CENTER>
+  <A HREF="6thPage.html">
+  <IMG SRC="C:\Users\booklover\Desktop\right.png" ALIGN="RIGHT" WIDTH=400 HEIGHT=400 BORDER=3 VSPACE=4 HSPACE=500 TITLE="EL">
+
+    <IMG SRC="C:\Users\booklover\Desktop\EL.JPG"WIDTH=300 HEIGHT=300 BORDER=3 ALIGN="LEFT" VSPACE=20 HSPACE=20 TITLE="EL">
+      <P ALIGN="JUSTIFY">
+      
+
+
+
+  </BODY>
+    
+   
+  </BODY>
+  </HTML>
